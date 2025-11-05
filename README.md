@@ -2,7 +2,7 @@
 
 A full-stack application that helps adults stay on top of their immunization schedule. Enter your age and get personalized vaccine recommendations based on CDC guidelines.
 
-**Link to project:** https://github.com/JustinJoshi/vaccines-api-adult
+**Link to project:** 
 
 [Vaccines API Adult](https://vaccines-api-adult.onrender.com)
 
