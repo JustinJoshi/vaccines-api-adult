@@ -6,6 +6,14 @@ A full-stack application that helps adults stay on top of their immunization sch
 
 [Vaccines API Adult](https://vaccines-api-adult.onrender.com)
 
+
+<img width="1085" height="1250" alt="2025-11-06_13-37_2" src="https://github.com/user-attachments/assets/ca3ca134-472f-4352-a193-4750b7f020bf" />
+
+<img width="624" height="818" alt="2025-11-06_13-37_3" src="https://github.com/user-attachments/assets/dec7a940-6c3c-4bf9-9490-74009dce808e" />
+
+<img width="1260" height="1310" alt="2025-11-06_13-37" src="https://github.com/user-attachments/assets/9b3c740d-e847-4f2e-8a58-cf3f43e6b50c" />
+
+
 ## How It's Made:
 
 **Tech used:** Node.js, Express, MongoDB, EJS, JavaScript
